@@ -121,7 +121,7 @@ width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: url(/images/bacground-img.jpg) #C4C4C4;
+  background: url(./images/bacground-img.jpg) #C4C4C4;
 }
 .hero-title {
   color: #fff;
